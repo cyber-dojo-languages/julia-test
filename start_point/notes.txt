@@ -1,3 +1,0 @@
-
-https://github.com/JuliaLang/Example.jl
-https://julialang.github.io/Pkg.jl/dev/creating-packages/#Adding-tests-to-the-package-1
