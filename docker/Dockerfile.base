@@ -1,4 +1,4 @@
-FROM cyberdojofoundation/julia:e887a0a
+FROM cyberdojofoundation/julia:7d98d81
 LABEL maintainer=jon@jaggersoft.com
 
 COPY red_amber_green.rb /usr/local/bin
