@@ -1,3 +1,5 @@
-FROM ghcr.io/cyber-dojo-languages/julia:c7b8de8
+FROM ghcr.io/cyber-dojo-languages/julia:0e96214
 LABEL maintainer=jon@jaggersoft.com
 
+COPY install.sh .
+RUN ./install.sh && rm ./install.sh
