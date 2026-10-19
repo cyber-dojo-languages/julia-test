@@ -1,4 +1,4 @@
-FROM ghcr.io/cyber-dojo-languages/julia:0e96214
+FROM ghcr.io/cyber-dojo-languages/julia:6b46af6@sha256:7a4e0776444575cd907976ed9ec90b55d094a66a2b28c0a799c9e1ab9f85e908
 LABEL maintainer=jon@jaggersoft.com
 
 COPY install.sh .
